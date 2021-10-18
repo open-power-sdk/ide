@@ -1,3 +1,9 @@
+### End of support
+
+The project for which this issues-only repository was created, IBM SDK for Linux on Power, is no longer supported.  Archive this repository.
+
+The command-line implementations of similar individual and independent tools in this GitHub organization remain available for continued use and development, and those repositories can of course be used to report issues or feature requests for those tools.
+
 ### Welcome
 
 This is an "issues-only" repository for the [IBM SDK for Linux on Power](https://developer.ibm.com/linuxonpower/sdk).
